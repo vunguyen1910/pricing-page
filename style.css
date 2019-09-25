@@ -1,0 +1,27 @@
+body{
+    background-color: #fff;
+}
+section {
+    padding: 25px;
+    min-height: 800px;
+    background-color: gray;
+}
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+img {
+    height: 350px;
+    width: 350px;
+}
+.container{
+    text-align: center;
+}
+h1 {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+section:nth-last-child(odd){
+    background-color:yellowgreen;
+}
