@@ -25,3 +25,7 @@ h1 {
 section:nth-last-child(odd){
     background-color:yellowgreen;
 }
+.card{
+    margin-left: 25px;
+    margin-right: 25px;
+}
